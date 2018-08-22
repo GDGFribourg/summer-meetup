@@ -4,8 +4,8 @@
   "description": "GDG Fribourg Summer meetups",
   "main": "index.js",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "dev": "vuepress dev",
+    "build": "vuepress build"
   },
   "author": "Jacques Supcik",
   "license": "Apache-2.0",
