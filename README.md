@@ -7,7 +7,8 @@
 * Vuepress [Jacques] <https://vuepress.vuejs.org/>
 * Karabiner Elements: Remap Mac keyboard [Jacques] <https://pqrs.org/osx/karabiner/>
 * Webpack [Jacques] <https://webpack.js.org/>
-
+* NativeScript [Jacques] <https://www.nativescript.org/>
+ 
 ## Techniques
 
 ## Services
