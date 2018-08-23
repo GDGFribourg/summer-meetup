@@ -44,6 +44,7 @@ Vue.js Newsletter [Jacques] <https://www.getrevue.co/profile/vuenewsletter>
 * WebTV: La 3D dans les jeux video [Lucy] <https://www.youtube.com/watch?v=dm5mxv62iIo&list=PL_hw6aF63W_3YzSg2Ka5ivUdVBk0LR1Ov>
 * Meet the inventor of the electronic spreadsheet [Lucy] <https://www.ted.com/talks/dan_bricklin_meet_the_inventor_of_the_electronic_spreadsheet>
 * The Mother of All Demos [Jacques] <https://youtu.be/yJDv-zdhzMY>
+* Building Software Systems At Google [Jacques] <https://youtu.be/modXC5IWTJI>
 
 ## Podcasts
 
