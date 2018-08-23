@@ -8,7 +8,8 @@
 * Karabiner Elements: Remap Mac keyboard [Jacques] <https://pqrs.org/osx/karabiner/>
 * Webpack [Jacques] <https://webpack.js.org/>
 * NativeScript [Jacques] <https://www.nativescript.org/>
- 
+* Stencils [Jacques] <https://stenciljs.com/>
+
 ## Techniques
 
 ## Services
@@ -32,6 +33,7 @@ Vue.js Newsletter [Jacques] <https://www.getrevue.co/profile/vuenewsletter>
 Vue.js News [Jacques] <https://medium.com/vue-mastery/the-official-vue-js-news-podcast-is-live-aa4052827960>
 
 ## Fun/chill
+
 * CodinGame [Damien] <https://www.codingame.com/start>
 * Human Resource Machine [Damien] <http://tomorrowcorporation.com/human-resource-machine-hour-of-code-edition>
 * SHENZHEN I/O [Damien] <http://www.zachtronics.com/shenzhen-io/>
