@@ -9,6 +9,9 @@
 * Webpack [Jacques] <https://webpack.js.org/>
 * NativeScript [Jacques] <https://www.nativescript.org/>
 * CSS ICON [Lucy] <https://cssicon.space/>
+* Stencils [Jacques] <https://stenciljs.com/>
+* Canvas Gauges [Jacques] <https://canvas-gauges.com/>
+
  
 ## Techniques
 
