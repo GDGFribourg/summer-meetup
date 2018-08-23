@@ -12,14 +12,23 @@
 * Stencils [Jacques] <https://stenciljs.com/>
 * Canvas Gauges [Jacques] <https://canvas-gauges.com/>
 * (MongoDB with Python) Mongo-Hacker & mongoengine [Lucy] <https://github.com/TylerBrock/mongo-hacker>, <http://docs.mongoengine.org/>
+* Robot 3T [Michel] <https://robomongo.org/>
+* Mlab [Jacques] <>
 * keybase [Lucy] <https://keybase.io/> :+1:
 * HackNPlan: Project manager for game dev [Damien] <https://hacknplan.com>
 * Discord [Jacques] <https://discordapp.com/>
 * asciinema [Lucy] <https://asciinema.org/>
+* Redis [Jacques] <https://redis.io/>
+* Nats [Jacques] <https://nats.io/> :new:
+* Rethinkdb [Jacques] <https://www.rethinkdb.com/>
+* Sequel Pro [Michel] <https://www.sequelpro.com/>
+* MySqlWorkbench [Jacques] <https://www.sql-workbench.eu/>
+* MongoDB Tools [Michel] <http://mongodb-tools.com/>
+* Awesome Mongo [Jacques] <https://github.com/ramnes/awesome-mongodb>
 
 ## Techniques
 
-* Hello
+* brentozar [Didier] <https://www.brentozar.com/first-aid/>
 
 ## Services
 
@@ -68,3 +77,9 @@ Vue.js News [Jacques] <https://medium.com/vue-mastery/the-official-vue-js-news-p
 * JS-weirdie [Lucy] <https://rawgit.com/ptomaszek/js-weirdie/master/index.html>
 * Humble Bundle [Damien] <https://humblebundle.com>
 * Paper Signals [Damien] <https://papersignals.withgoogle.com>
+* Untrusted [Michel] <https://alexnisnevich.github.io/untrusted/>
+
+## Autre
+
+* Free ebooks - Project Gutenberg [Jean] <https://www.gutenberg.org/>
+* Free technical books (Concurrent programming) [Jacques] <https://greenteapress.com/wp/>
