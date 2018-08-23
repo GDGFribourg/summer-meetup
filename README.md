@@ -30,6 +30,7 @@
 * Remot3.it: Remote access to your IoT devices [Jacques] <http://remot3.it/>
 * Zorin OS [Lucy] <https://zorinos.com/>
 * Ansible [Jacques] <https://www.ansible.com/>
+* Datadog [Jacques] <https://www.datadoghq.com/>
 
 ## Web sites
 
