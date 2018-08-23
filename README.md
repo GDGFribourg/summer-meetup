@@ -49,6 +49,7 @@ Vue.js Newsletter [Jacques] <https://www.getrevue.co/profile/vuenewsletter>
 * Meet the inventor of the electronic spreadsheet [Lucy] <https://www.ted.com/talks/dan_bricklin_meet_the_inventor_of_the_electronic_spreadsheet>
 * The Mother of All Demos [Jacques] <https://youtu.be/yJDv-zdhzMY>
 * Building Software Systems At Google [Jacques] <https://youtu.be/modXC5IWTJI>
+* Micode [Damien] <https://www.youtube.com/channel/UCYnvxJ-PKiGXo_tYXpWAC-w>
 
 ## Podcasts
 
