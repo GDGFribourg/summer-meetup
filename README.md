@@ -14,7 +14,8 @@
 * (MongoDB with Python) Mongo-Hacker & mongoengine [Lucy] <https://github.com/TylerBrock/mongo-hacker>, <http://docs.mongoengine.org/>
 * keybase [Lucy] <https://keybase.io/> :+1:
 * HackNPlan: Project manager for game dev [Damien] <https://hacknplan.com>
- 
+* Discord [Jacques] <https://discordapp.com/>
+
 ## Techniques
 
 ## Services
