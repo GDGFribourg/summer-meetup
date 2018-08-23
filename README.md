@@ -13,6 +13,7 @@
 * Canvas Gauges [Jacques] <https://canvas-gauges.com/>
 * (MongoDB with Python) Mongo-Hacker & mongoengine [Lucy] <https://github.com/TylerBrock/mongo-hacker>, <http://docs.mongoengine.org/>
 * keybase [Lucy] <https://keybase.io/>
+* HackNPlan: Project manager for game dev [Damien] <https://hacknplan.com>
  
 ## Techniques
 
@@ -56,3 +57,5 @@ Vue.js News [Jacques] <https://medium.com/vue-mastery/the-official-vue-js-news-p
 * Repsych: Psychological Warfare in Reverse Engineering [Lucy] <https://www.youtube.com/watch?v=HlUe0TUHOIc>
 * TIS-100 (game) [Lucy] <https://store.steampowered.com/app/370360/TIS100/>
 * JS-weirdie [Lucy] <https://rawgit.com/ptomaszek/js-weirdie/master/index.html>
+* Humble Bundle [Damien] <https://humblebundle.com>
+* Paper Signals [Damien] <https://papersignals.withgoogle.com>
