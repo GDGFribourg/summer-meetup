@@ -11,6 +11,7 @@
 * CSS ICON [Lucy] <https://cssicon.space/>
 * Stencils [Jacques] <https://stenciljs.com/>
 * Canvas Gauges [Jacques] <https://canvas-gauges.com/>
+* (MongoDB with Python) Mongo-Hacker & mongoengine [Lucy] <https://github.com/TylerBrock/mongo-hacker>, <http://docs.mongoengine.org/>
 
  
 ## Techniques
