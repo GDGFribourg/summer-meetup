@@ -15,6 +15,7 @@
 * keybase [Lucy] <https://keybase.io/> :+1:
 * HackNPlan: Project manager for game dev [Damien] <https://hacknplan.com>
 * Discord [Jacques] <https://discordapp.com/>
+* asciinema [Lucy] <https://asciinema.org/>
 
 ## Techniques
 
