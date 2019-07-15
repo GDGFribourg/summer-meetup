@@ -1,8 +1,10 @@
 module.exports = {
     title: 'GDG Fribourg',
+    head: [
+        ['link', { rel: 'icon', href: '/favicon.png' }]
+    ],
     plugins: ['@vuepress/last-updated'],
     themeConfig: {
-
         lastUpdated: 'Last Updated', // string | boolean
         nav: [
             { text: 'Home', link: '/' },
@@ -17,3 +19,4 @@ module.exports = {
         ]
     }
   }
+  
