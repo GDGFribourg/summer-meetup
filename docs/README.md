@@ -26,9 +26,9 @@
 
 ## Podcasts
 
-* [Changelog](https://changelog.com/podcasts)
-* [Go Time](https://changelog.com/gotime)
-* [Hackable](https://hackablepodcast.com/)
+* [Changelog](https://changelog.com/podcasts) [Jacques]
+* [Go Time](https://changelog.com/gotime) [Jacques]
+* [Hackable](https://hackablepodcast.com/) [Jacques]
 
 ## Fun/chill
 
