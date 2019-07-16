@@ -19,7 +19,8 @@ module.exports = {
         ],
         algolia: {
             apiKey: '67205320043f2a22eac77452fd058808',
-            indexName: 'gdgfribourg'
+            indexName: 'gdgfribourg',
+            algoliaOptions: { 'facetFilters': ["lang:en-US"] }
         }
     }
   }
