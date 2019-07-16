@@ -16,7 +16,11 @@ module.exports = {
                 ]
             },
             { text: 'gdgfribourg.ch', link: 'https://gdgfribourg.ch' },
-        ]
+        ],
+        algolia: {
+            apiKey: '67205320043f2a22eac77452fd058808',
+            indexName: 'gdgfribourg'
+        }
     }
   }
   
