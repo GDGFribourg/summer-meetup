@@ -14,6 +14,7 @@
 
 * [Paper Space](https://www.paperspace.com/) [Jacques]
 * [Snowboy](https://snowboy.kitt.ai/) [Jacques]
+* https://io.adafruit.com/ [Jacques]
 
 ## Sysadmin
 
