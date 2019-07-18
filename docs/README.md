@@ -42,7 +42,7 @@
 
 * [The Pragmatic Programmer, 20th Anniversary Edition](https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition) [Jacques]
 * [(JS) byte-saving techniques](https://github.com/jed/140bytes/wiki/Byte-saving-techniques) [Lucy]
-* [Your code can small](https://www.makeuseof.com/tag/code-smells-fix/) [Lucy]
+* [Your code can smell](https://www.makeuseof.com/tag/code-smells-fix/) [Lucy]
 * [Styleguide git commit message](https://github.com/slashsbin/styleguide-git-commit-message) [Lucy]
 
 ## Youtube / Videos
@@ -61,13 +61,13 @@
 
 ## Fun/chill
 * [It's Nicky Case!](https://ncase.me/) [Damien]
-* [what the Javascript](https://speakerdeck.com/getify/what-the-javascript ?) [Lucy]
+* [what the Javascript](https://speakerdeck.com/getify/what-the-javascript) [Lucy]
 * [fuckitpy](https://github.com/ajalt/fuckitpy/blob/master/README.md) [Lucy]
 * [fizz-buzz in tensorflow](https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/) [Lucy]
 * [jsfuck](https://github.com/aemkei/jsfuck) [Lucy]
 
 ## Miscellaneous
 
-* [Polyform licenses](https://github.com/polyformproject) [Lucy]
+* [Polyform licenses](https://github.com/polyformproject/polyform) [Lucy]
 * [MacBook layouts](https://github.com/HereThereBeMonsters/MacKeyboardLayout) [Lucy]
-* [Python books](https://github.com/manash-biswal/Python-Books) [Lucy]
+* [Python books](https://github.com/polyformproject/polyform-licenses) [Lucy]
