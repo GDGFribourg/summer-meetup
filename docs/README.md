@@ -23,7 +23,9 @@
 * [Paper we Love (Zürich)](https://paperswelove.org/chapter/zurich/) [Jacques]
 * [Papers With Code](https://paperswithcode.com/) [Jacques]
 
-## Articles / READMEs
+## Books / Articles / READMEs
+
+* [The Pragmatic Programmer, 20th Anniversary Edition](https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition) [Jacques]
 
 ## Youtube / Videos
 
