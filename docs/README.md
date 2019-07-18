@@ -7,6 +7,7 @@
 * [Dash](https://kapeli.com/dash) [Jacques]
 * [Puppeteer](https://pptr.dev/) [Jacques]
 * [Pyppeteer](https://github.com/miyakogi/pyppeteer) [Jacques]
+* [Chocolatey](https://chocolatey.org/) [Damien]
 * [CutePDF editor](https://www.cutepdf-editor.com)[Lucy]
 * [Mendeley](https://www.mendeley.com)[Lucy]
 
@@ -16,6 +17,7 @@
 
 * [Paper Space](https://www.paperspace.com/) [Jacques]
 * [Snowboy](https://snowboy.kitt.ai/) [Jacques]
+* [Heroku](https://www.heroku.com/) [Damien]
 * https://io.adafruit.com/ [Jacques]
 * [D-Wave Leap](https://cloud.dwavesys.com/leap)[Lucy]
 * [Quirck](https://algassert.com/quirk)[Lucy]
@@ -58,7 +60,7 @@
 * [Crazy/Genius](https://www.theatlantic.com/podcasts/crazygenius/)[Lucy]
 
 ## Fun/chill
-
+* [It's Nicky Case!](https://ncase.me/) [Damien]
 * [what the Javascript](https://speakerdeck.com/getify/what-the-javascript ?)[Lucy]
 * [fuckitpy](https://github.com/ajalt/fuckitpy/blob/master/README.md)[Lucy]
 * [fizz-buzz in tensorflow](https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)[Lucy]
