@@ -11,6 +11,7 @@ module.exports = {
             {
                 text: 'Past editions',
                 items: [
+                    { text: '2019', link: '/2019/' },
                     { text: '2018', link: '/2018/' },
                     { text: '2017', link: '/2017/' }
                 ]

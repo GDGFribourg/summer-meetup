@@ -1,6 +1,6 @@
 {
   "name": "summer-meetup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "GDG Fribourg Summer meetups",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "Jacques Supcik",
   "license": "Apache-2.0",
   "devDependencies": {
-    "vuepress": "^1.0.2"
+    "vuepress": "^1.5.2"
   }
 }
