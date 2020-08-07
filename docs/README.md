@@ -3,6 +3,9 @@
 ## Tools
 
 * [Streamlit (Python)](https://www.streamlit.io/) [Lucy]
+* [Notion App](https://www.notion.so/) [Lucy]
+* [Anki](https://ankiweb.net/) [Lucy]
+
 <!--
 * [Unclutter](https://unclutterapp.com/) [Jacques]
 * [Magnet](https://magnet.crowdcafe.com/) [Jacques]
