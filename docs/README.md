@@ -85,6 +85,8 @@
 
 ## Fun/chill
 
+* [AI Dungeon](https://play.aidungeon.io/) [Lucy]
+* [ArtBreeder](https://artbreeder.com/) [Lucy] 
 
 <!--
 * [It's Nicky Case!](https://ncase.me/) [Damien]
