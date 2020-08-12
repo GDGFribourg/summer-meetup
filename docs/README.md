@@ -5,6 +5,9 @@
 * [Streamlit (Python)](https://www.streamlit.io/) [Lucy]
 * [Notion App](https://www.notion.so/) [Lucy]
 * [Anki](https://ankiweb.net/) [Lucy]
+* [TinyGo](https://tinygo.org/) [Jacques]
+* [MicroPython](https://micropython.org/) [Jacques]
+* [Windows Package Manager `winget`](https://docs.microsoft.com/en-us/windows/package-manager/winget/) [Damien?]
 
 <!--
 * [Unclutter](https://unclutterapp.com/) [Jacques]
@@ -17,11 +20,11 @@
 * [Mendeley](https://www.mendeley.com) [Lucy]
 -->
 
-* [Windows Package Manager `winget`](https://docs.microsoft.com/en-us/windows/package-manager/winget/)
-
 ## Techniques
 
 ## Services
+
+* [Vercel : cloud platform for static sites and Serverless Functions](https://vercel.com/) [Jacques]
 
 <!--
 * [Paper Space](https://www.paperspace.com/) [Jacques]
