@@ -2,6 +2,10 @@
 
 ## Tools
 
+* [Streamlit (Python)](https://www.streamlit.io/) [Lucy]
+* [Notion App](https://www.notion.so/) [Lucy]
+* [Anki](https://ankiweb.net/) [Lucy]
+
 <!--
 * [Unclutter](https://unclutterapp.com/) [Jacques]
 * [Magnet](https://magnet.crowdcafe.com/) [Jacques]
@@ -50,6 +54,10 @@
 
 ## Books / Articles / READMEs
 
+* [Java Interview Questions](https://blog.interviewmocha.com/java-interview-questions) [Lucy]
+* [The System Design Primer](https://github.com/donnemartin/system-design-primer) [Lucy]
+* [Hacker Laws](https://github.com/dwmkerr/hacker-laws) [Lucy]
+
 <!--
 * [The Pragmatic Programmer, 20th Anniversary Edition](https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition) [Jacques]
 * [(JS) byte-saving techniques](https://github.com/jed/140bytes/wiki/Byte-saving-techniques) [Lucy]
@@ -59,6 +67,8 @@
 
 ## Youtube / Videos
 
+* [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q) [Lucy]
+* [System Design Basics Playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) [Lucy]
 <!--
 * [YouTube vanced](https://vanced.app/) [Lucy]
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) [Lucy]
@@ -77,6 +87,8 @@
 
 ## Fun/chill
 
+* [AI Dungeon](https://play.aidungeon.io/) [Lucy]
+* [ArtBreeder](https://artbreeder.com/) [Lucy] 
 
 <!--
 * [It's Nicky Case!](https://ncase.me/) [Damien]
