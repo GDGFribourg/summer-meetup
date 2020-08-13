@@ -25,6 +25,7 @@
 ## Services
 
 * [Vercel : cloud platform for static sites and Serverless Functions](https://vercel.com/) [Jacques]
+* [NoCodeAPI : ](https://nocodeapi.com/)
 
 <!--
 * [Paper Space](https://www.paperspace.com/) [Jacques]
@@ -79,6 +80,8 @@
 -->
 
 ## Podcasts
+
+* [WeCrashed: The Rise and Fall of WeWork](https://wondery.com/shows/we-crashed) [Jacques]
 
 <!--
 * [Changelog](https://changelog.com/podcasts) [Jacques]
