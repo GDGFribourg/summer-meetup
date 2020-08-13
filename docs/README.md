@@ -9,6 +9,7 @@
 * [MicroPython](https://micropython.org/) [Jacques]
 * [Windows Package Manager `winget`](https://docs.microsoft.com/en-us/windows/package-manager/winget/) [Damien?]
 * [Svelte](https://svelte.dev/) [Jacques]
+* [FastAPI](https://fastapi.tiangolo.com/) [Jacques]
 
 <!--
 * [Unclutter](https://unclutterapp.com/) [Jacques]
