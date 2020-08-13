@@ -26,8 +26,9 @@
 
 ## Services
 
-* [Vercel : cloud platform for static sites and Serverless Functions](https://vercel.com/) [Jacques]
-* [NoCodeAPI : ](https://nocodeapi.com/)
+* [Vercel](https://vercel.com/) [Jacques]
+* [NoCodeAPI](https://nocodeapi.com/) [Jacques]
+* [ngrok](https://ngrok.com/) (or [alternatives](https://chenhuijing.com/blog/tunnelling-services-for-exposing-localhost-to-the-web/)) [Jacques]
 
 <!--
 * [Paper Space](https://www.paperspace.com/) [Jacques]
