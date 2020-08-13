@@ -8,6 +8,7 @@
 * [TinyGo](https://tinygo.org/) [Jacques]
 * [MicroPython](https://micropython.org/) [Jacques]
 * [Windows Package Manager `winget`](https://docs.microsoft.com/en-us/windows/package-manager/winget/) [Damien?]
+* [Svelte](https://svelte.dev/) [Jacques]
 
 <!--
 * [Unclutter](https://unclutterapp.com/) [Jacques]
