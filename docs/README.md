@@ -7,9 +7,12 @@
 * [Anki](https://ankiweb.net/) [Lucy]
 * [TinyGo](https://tinygo.org/) [Jacques]
 * [MicroPython](https://micropython.org/) [Jacques]
-* [Windows Package Manager `winget`](https://docs.microsoft.com/en-us/windows/package-manager/winget/) [Damien?]
+* [Windows Package Manager `winget`](https://docs.microsoft.com/en-us/windows/package-manager/winget/) [Damien]
+* [Use CUDA with WSL2](https://docs.nvidia.com/cuda/wsl-user-guide/index.html#installing-wsl2) [Damien]
 * [Svelte](https://svelte.dev/) [Jacques]
 * [FastAPI](https://fastapi.tiangolo.com/) [Jacques]
+* [ClickUp](https://clickup.com) [Damien]
+* [Spleeter](https://github.com/deezer/spleeter) [Damien]
 
 <!--
 * [Unclutter](https://unclutterapp.com/) [Jacques]
