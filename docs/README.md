@@ -13,6 +13,8 @@
 * [Mendeley](https://www.mendeley.com) [Lucy]
 -->
 
+* [Windows Package Manager `winget`](https://docs.microsoft.com/en-us/windows/package-manager/winget/)
+
 ## Techniques
 
 ## Services
