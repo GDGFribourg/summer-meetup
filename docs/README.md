@@ -25,8 +25,6 @@
 * [Mendeley](https://www.mendeley.com) [Lucy]
 -->
 
-* [Windows Package Manager `winget`](https://docs.microsoft.com/en-us/windows/package-manager/winget/)
-
 ## Techniques
 
 ## Services
@@ -81,12 +79,11 @@
 
 * [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q) [Lucy]
 * [System Design Basics Playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) [Lucy]
-
-<!--
+* [AlphaGo - The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y) [Jacques]
 * [YouTube vanced](https://vanced.app/) [Lucy]
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) [Lucy]
 * [engineerguy](https://www.youtube.com/channel/UC2bkHVIDjXS7sgrgjFtzOXQ) [Lucy]
--->
+* [AlphaGo - The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y) [Jacques]
 
 ## Podcasts
 
