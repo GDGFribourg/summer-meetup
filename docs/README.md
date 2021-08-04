@@ -6,6 +6,7 @@
 * [Poetry](https://python-poetry.org/) [Jacques]
 * [Nomad](https://www.hashicorp.com/products/nomad) [Jacques]
 * [Consul](https://www.hashicorp.com/products/consul) [Jacques]
+* [Gitpod](https://www.gitpod.io/) [Jacques]
 
 ## Techniques
 
