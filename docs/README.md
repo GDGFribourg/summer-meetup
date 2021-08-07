@@ -8,6 +8,11 @@
 * [Consul](https://www.hashicorp.com/products/consul) [Jacques]
 * [Gitpod](https://www.gitpod.io/) [Jacques]
 
+## Visual Studio Code Extensions
+
+* [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) [Jacques]
+* [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) [Jacques]
+
 ## Techniques
 
 ## Services
