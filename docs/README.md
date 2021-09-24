@@ -7,29 +7,38 @@
 * [Nomad](https://www.hashicorp.com/products/nomad) [Jacques]
 * [Consul](https://www.hashicorp.com/products/consul) [Jacques]
 * [Gitpod](https://www.gitpod.io/) [Jacques]
+* [pyinstaller](http://www.pyinstaller.org/) and [GraalVM](https://www.graalvm.org/) [Lucy]
+* [lazygit](https://github.com/jesseduffield/lazygit) [Lucy]
+* [requestbin](https://requestbin.com/) [Lucy]
+* [photopea](https://www.photopea.com/) [Lucy]
+* press `.` on a the landing page of one of your Github Repo (or add `1s` after `github` in any repo URL) [Lucy]
 
 ## Visual Studio Code Extensions
 
 * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) [Jacques]
 * [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) [Jacques]
 
-## Techniques
+## Security / Privacy
+
+* [Woogle Search](https://github.com/benbusby/whoogle-search) and [censiCLICK presentation on YouTube](https://www.youtube.com/watch?v=1mGGpkjSRJs) [Lucy]
 
 ## Services
 
-## Sysadmin
-
-## Data sciences
-
-## Web sites
+* [mermaid live](https://mermaid.live) and [kroki.io](https://kroki.io) [Lucy]
+* [PermaCC](http://perma.cc/) and [article about why it matters (French)](https://korii.slate.fr/et-caetera/technologie-web-link-rot-quand-internet-pourrit-interieur-savoir-oubli-liens-morts-indexation) [Lucy] 
 
 ## Books / Articles / READMEs
 
-## Youtube / Videos
+* [NTF -- Non Fungible Tokens (WikiPedia)](https://en.m.wikipedia.org/wiki/Non-fungible_token) [Lucy]
+* [Why Discord is switching from Go to Rust](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) [Lucy]
+* [The Twelve Factors](https://12factor.net/) [Lucy]
 
-## Podcasts
+## YouTube / Videos
 
-## Fun/chill
+* [Speed Tests: Software Drag Racing!](https://www.youtube.com/playlist?list=PLF2KJ6Gy3cZ5Er-1eF9fN1Hgw_xkoD9V1) and associated [Github Repo](https://github.com/PlummersSoftwareLLC/Primes) [Lucy]
+* [censiCLICK](https://www.youtube.com/c/censiCLICK) [Lucy]
 
-## Miscellaneous
 
+## Fun / Chill
+
+* search "*Google word coach*" on Google (Mobile only) [Lucy]
