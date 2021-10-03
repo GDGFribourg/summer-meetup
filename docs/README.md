@@ -9,7 +9,8 @@
 * [Gitpod](https://www.gitpod.io/) [Jacques]
 * [pyinstaller](http://www.pyinstaller.org/) and [GraalVM](https://www.graalvm.org/) [Lucy]
 * [lazygit](https://github.com/jesseduffield/lazygit) [Lucy]
-* [requestbin](https://requestbin.com/) [Lucy]
+* [hookbin](https://hookbin.com/) and [requestbin](https://requestbin.com/) [Lucy]
+* [httpie](https://httpie.io/), [jq](https://stedolan.github.io/jq/) and [jid](https://github.com/simeji/jid) [Lucy]
 * [photopea](https://www.photopea.com/) [Lucy]
 * press `.` on a the landing page of one of your Github Repo (or add `1s` after `github` in any repo URL) [Lucy]
 
@@ -29,9 +30,9 @@
 
 ## Books / Articles / READMEs
 
-* [NTF -- Non Fungible Tokens (WikiPedia)](https://en.m.wikipedia.org/wiki/Non-fungible_token) [Lucy]
 * [Why Discord is switching from Go to Rust](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) [Lucy]
 * [The Twelve Factors](https://12factor.net/) [Lucy]
+* [dev.to](https://dev.to) [Lucy]
 
 ## YouTube / Videos
 
@@ -41,4 +42,7 @@
 
 ## Fun / Chill
 
+* [pokemon or big data?](http://pixelastic.github.io/pokemonorbigdata/) [Lucy]
+* [The Key by StaskOverflow](https://stackoverflow.blog/2021/09/28/become-a-better-coder-with-this-one-weird-click/) [Lucy]
+* [talk to a duck](https://rubberduckdebugging.com/cyberduck/) [Lucy]
 * search "*Google word coach*" on Google (Mobile only) [Lucy]
