@@ -30,12 +30,15 @@
 
 * [mermaid live](https://mermaid.live) and [kroki.io](https://kroki.io) [Lucy]
 * [PermaCC](http://perma.cc/) and [article about why it matters (French)](https://korii.slate.fr/et-caetera/technologie-web-link-rot-quand-internet-pourrit-interieur-savoir-oubli-liens-morts-indexation) [Lucy] 
+* [The github.dev web-based editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor) [Jacques]
+* [github copilot](https://copilot.github.com/) [Jacques]
 
 ## Books / Articles / READMEs
 
 * [Why Discord is switching from Go to Rust](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) [Lucy]
 * [The Twelve Factors](https://12factor.net/) [Lucy]
 * [dev.to](https://dev.to) [Lucy]
+
 
 ## YouTube / Videos
 
