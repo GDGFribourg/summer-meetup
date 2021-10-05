@@ -13,6 +13,7 @@
 * [httpie](https://httpie.io/), [jq](https://stedolan.github.io/jq/) and [jid](https://github.com/simeji/jid) [Lucy]
 * [photopea](https://www.photopea.com/) [Lucy]
 * press `.` on a the landing page of one of your Github Repo (or add `1s` after `github` in any repo URL) [Lucy]
+* ([The github.dev web-based editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor))
 * [Excalidraw](https://excalidraw.com/) [Damien]
 * [Github CLI](https://github.com/cli/cli) [Damien]
 
@@ -30,7 +31,6 @@
 
 * [mermaid live](https://mermaid.live) and [kroki.io](https://kroki.io) [Lucy]
 * [PermaCC](http://perma.cc/) and [article about why it matters (French)](https://korii.slate.fr/et-caetera/technologie-web-link-rot-quand-internet-pourrit-interieur-savoir-oubli-liens-morts-indexation) [Lucy] 
-* [The github.dev web-based editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor) [Jacques]
 * [github copilot](https://copilot.github.com/) [Jacques]
 
 ## Books / Articles / READMEs
