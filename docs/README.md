@@ -13,11 +13,14 @@
 * [httpie](https://httpie.io/), [jq](https://stedolan.github.io/jq/) and [jid](https://github.com/simeji/jid) [Lucy]
 * [photopea](https://www.photopea.com/) [Lucy]
 * press `.` on a the landing page of one of your Github Repo (or add `1s` after `github` in any repo URL) [Lucy]
+* [Excalidraw](https://excalidraw.com/) [Damien]
+* [Github CLI](https://github.com/cli/cli) [Damien]
 
 ## Visual Studio Code Extensions
 
 * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) [Jacques]
 * [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) [Jacques]
+* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) [Damien]
 
 ## Security / Privacy
 
