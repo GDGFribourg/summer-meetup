@@ -9,6 +9,7 @@
 * [dockerized](https://github.com/datastack-net/dockerized) [Lucy]
 * [thefuck](https://github.com/nvbn/thefuck) [Lucy]
 * [k3d](https://k3d.io/) [Lucy]
+* [LSDeluxe](https://github.com/Peltoche/lsd) [Damien]
 
 ## Services
 
@@ -35,3 +36,4 @@
 * [asdf;lkj](https://asdfsemicolonlkj.com/) [Lucy]
 * [User Inyerface](https://userinyerface.com/) [Lucy]
 * [Proge Game](https://progegame.com/) [Lucy]
+* [Midjourney](https://www.midjourney.com/app/) [Damien]
