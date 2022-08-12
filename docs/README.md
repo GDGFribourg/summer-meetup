@@ -10,11 +10,17 @@
 * [thefuck](https://github.com/nvbn/thefuck) [Lucy]
 * [k3d](https://k3d.io/) [Lucy]
 * [LSDeluxe](https://github.com/Peltoche/lsd) [Damien]
+* [Powerlevel10k](https://github.com/romkatv/powerlevel10k) [Jacques]
+* [Tipserve](https://github.com/supcik/zipserve) [Jacques]
+* [pre-commit](https://pre-commit.com/) [Jacques]
+* [PlatformIO](https://platformio.org/) [Jacques]
+* [Go 1.18](https://go.dev/blog/go1.18) [Jacques]
 
 ## Services
 
 * [QArt Coder](https://www.qartcoder.com/qr/draw) [Lucy]
 * [Network Policy editor for Kubernetes](https://editor.cilium.io/) [Lucy]
+* [Readable Comment](https://readable.so/) [Jacques]
 
 ## Frameworks / Specifications
 
@@ -37,3 +43,4 @@
 * [User Inyerface](https://userinyerface.com/) [Lucy]
 * [Proge Game](https://progegame.com/) [Lucy]
 * [Midjourney](https://www.midjourney.com/app/) [Damien]
+* [/dev/null as a service](https://devnull-as-a-service.com/) [Jacques]
