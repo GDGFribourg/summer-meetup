@@ -3,25 +3,26 @@
 ## Tools
 
 * [arkade - Package Manager for Kubernetes](https://github.com/alexellis/arkade) [Lucy]
+* [GlitchTip](https://glitchtip.com/) [Damien]
+* [Powerlevel10k](https://github.com/romkatv/powerlevel10k) [Jacques]
+* [thefuck](https://github.com/nvbn/thefuck) [Lucy]
+* [dockerized](https://github.com/datastack-net/dockerized) [Lucy]
 * [Warp Terminal](https://warp.dev/) [Lucy]
 * [vendir](https://carvel.dev/vendir/docs/v0.25.0/vendir-spec/) [Lucy]
 * [sops](https://github.com/mozilla/sops) [Lucy]
-* [dockerized](https://github.com/datastack-net/dockerized) [Lucy]
-* [thefuck](https://github.com/nvbn/thefuck) [Lucy]
 * [k3d](https://k3d.io/) [Lucy]
-* [LSDeluxe](https://github.com/Peltoche/lsd) [Damien]
-* [Powerlevel10k](https://github.com/romkatv/powerlevel10k) [Jacques]
-* [Tipserve](https://github.com/supcik/zipserve) [Jacques]
 * [pre-commit](https://pre-commit.com/) [Jacques]
+* [LSDeluxe](https://github.com/Peltoche/lsd) [Damien]
 * [PlatformIO](https://platformio.org/) [Jacques]
+* [Tipserve](https://github.com/supcik/zipserve) [Jacques]
 * [Go 1.18](https://go.dev/blog/go1.18) [Jacques]
-* [GlitchTip](https://glitchtip.com/) [Damien]
 
 ## Services
 
 * [QArt Coder](https://www.qartcoder.com/qr/draw) [Lucy]
-* [Network Policy editor for Kubernetes](https://editor.cilium.io/) [Lucy]
 * [Readable Comment](https://readable.so/) [Jacques]
+* [Network Policy editor for Kubernetes](https://editor.cilium.io/) [Lucy]
+* [FutureMe](https://www.futureme.org/) [Jacques]
 
 ## Frameworks / Specifications
 
@@ -40,9 +41,9 @@
 
 ## Fun / Chill
 
+* [Proge Game](https://progegame.com/) [Lucy]
+* [Google new Easteregg (cat/dog)](https://www.google.com/search?q=cat) [Damien]
+* [Midjourney](https://www.midjourney.com/app/) [Damien]
 * [asdf;lkj](https://asdfsemicolonlkj.com/) [Lucy]
 * [User Inyerface](https://userinyerface.com/) [Lucy]
-* [Proge Game](https://progegame.com/) [Lucy]
-* [Midjourney](https://www.midjourney.com/app/) [Damien]
 * [/dev/null as a service](https://devnull-as-a-service.com/) [Jacques]
-* [Google new Easteregg (cat/dog)](https://www.google.com/search?q=cat) [Damien]
