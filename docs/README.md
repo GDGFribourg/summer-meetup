@@ -16,6 +16,7 @@
 * [PlatformIO](https://platformio.org/) [Jacques]
 * [Tipserve](https://github.com/supcik/zipserve) [Jacques]
 * [Go 1.18](https://go.dev/blog/go1.18) [Jacques]
+* [Gremlins tracker for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins) [Jacques]
 
 ## Services
 
