@@ -15,6 +15,7 @@
 * [pre-commit](https://pre-commit.com/) [Jacques]
 * [PlatformIO](https://platformio.org/) [Jacques]
 * [Go 1.18](https://go.dev/blog/go1.18) [Jacques]
+* [GlitchTip](https://glitchtip.com/) [Damien]
 
 ## Services
 
@@ -44,3 +45,4 @@
 * [Proge Game](https://progegame.com/) [Lucy]
 * [Midjourney](https://www.midjourney.com/app/) [Damien]
 * [/dev/null as a service](https://devnull-as-a-service.com/) [Jacques]
+* [Google new Easteregg (cat/dog)](https://www.google.com/search?q=cat) [Damien]
