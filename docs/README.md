@@ -1,54 +1,65 @@
-# GDG Fribourg summer meetup 2021
+# GDG Fribourg summer meetup 2022
 
 ## Tools
 
-* [Cookie Cutter](https://cookiecutter.readthedocs.io/en/1.7.2/) [Jacques]
-* [Poetry](https://python-poetry.org/) [Jacques]
-* [Nomad](https://www.hashicorp.com/products/nomad) [Jacques]
-* [Consul](https://www.hashicorp.com/products/consul) [Jacques]
-* [Gitpod](https://www.gitpod.io/) [Jacques]
-* [pyinstaller](http://www.pyinstaller.org/) and [GraalVM](https://www.graalvm.org/) [Lucy]
-* [lazygit](https://github.com/jesseduffield/lazygit) [Lucy]
-* [hookbin](https://hookbin.com/) and [requestbin](https://requestbin.com/) [Lucy]
-* [httpie](https://httpie.io/), [jq](https://stedolan.github.io/jq/) and [jid](https://github.com/simeji/jid) [Lucy]
-* [photopea](https://www.photopea.com/) [Lucy]
-* press `.` on a the landing page of one of your Github Repo (or add `1s` after `github` in any repo URL) [Lucy]
-* ([The github.dev web-based editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor))
-* [Excalidraw](https://excalidraw.com/) [Damien]
-* [Github CLI](https://github.com/cli/cli) [Damien]
-
-## Visual Studio Code Extensions
-
-* [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) [Jacques]
-* [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) [Jacques]
-* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) [Damien]
-
-## Security / Privacy
-
-* [Woogle Search](https://github.com/benbusby/whoogle-search) and [censiCLICK presentation on YouTube](https://www.youtube.com/watch?v=1mGGpkjSRJs) [Lucy]
+* [arkade - Package Manager for Kubernetes](https://github.com/alexellis/arkade) [Lucy]
+* [GlitchTip](https://glitchtip.com/) [Damien]
+* [Powerlevel10k](https://github.com/romkatv/powerlevel10k) [Jacques]
+* [thefuck](https://github.com/nvbn/thefuck) [Lucy]
+* [dockerized](https://github.com/datastack-net/dockerized) [Lucy]
+* [Warp Terminal](https://warp.dev/) [Lucy]
+* [vendir](https://carvel.dev/vendir/docs/v0.25.0/vendir-spec/) [Lucy]
+* [sops](https://github.com/mozilla/sops) [Lucy]
+* [k3d](https://k3d.io/) [Lucy]
+* [pre-commit](https://pre-commit.com/) [Jacques]
+* [LSDeluxe](https://github.com/Peltoche/lsd) [Damien]
+* [PlatformIO](https://platformio.org/) [Jacques]
+* [Tipserve](https://github.com/supcik/zipserve) [Jacques]
+* [Go 1.18](https://go.dev/blog/go1.18) [Jacques]
+* [Gremlins tracker for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins) [Jacques]
+* [A command-line fuzzy finder](https://github.com/junegunn/fzf) [Jacques]
+* [neovim](https://neovim.io/) [Sylvain]
+* [Alacritty](https://github.com/alacritty/alacritty)
+* [Rclone](https://rclone.org/) [Jacques]
+* [Vivaldi](https://vivaldi.com/) [Lucy]
+* [restic Backups done right!](https://restic.net/)
+* [horcrux](https://github.com/jesseduffield/horcrux) [Jacques]
+* [SCons: A software construction tool](https://scons.org/) [Jacques]
+* [exa : a modern replacement for ls](https://github.com/ogham/exa)
+* [Obsidian](https://obsidian.md/)
 
 ## Services
 
-* [mermaid live](https://mermaid.live) and [kroki.io](https://kroki.io) [Lucy]
-* [PermaCC](http://perma.cc/) and [article about why it matters (French)](https://korii.slate.fr/et-caetera/technologie-web-link-rot-quand-internet-pourrit-interieur-savoir-oubli-liens-morts-indexation) [Lucy] 
-* [github copilot](https://copilot.github.com/) [Jacques]
+* [QArt Coder](https://www.qartcoder.com/qr/draw) [Lucy]
+* [Readable Comment](https://readable.so/) [Jacques]
+* [Network Policy editor for Kubernetes](https://editor.cilium.io/) [Lucy]
+* [FutureMe](https://www.futureme.org/) [Jacques]
+* [Codédex](https://codedex.io)
+* [Daily.dev](https://daily.dev)
 
-## Books / Articles / READMEs
+## Frameworks / Specifications
 
-* [Why Discord is switching from Go to Rust](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) [Lucy]
-* [The Twelve Factors](https://12factor.net/) [Lucy]
-* [dev.to](https://dev.to) [Lucy]
+* [GitOps](https://www.gitops.tech/) [Lucy]
+* [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) [Lucy]
 
+## Articles / Blogs / READMEs
+
+* [Learning Containers, Kubernetes, and Backend Development with Ivan Velichko (blog)](https://iximiuz.com/en/) [Lucy]
+* [ops.io](https://community.ops.io/) [Lucy]
+* [Two lines of CSS that boosts 7x rendering performance!](https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd) [Lucy]
+* [The end of text documentation! 👨‍💻👩‍💻](https://dev.to/magensmith/the-end-of-text-documentation-3e1o) -> [Speacode Video Recorder Plugin - IntelliJ](https://plugins.jetbrains.com/plugin/15672-speacode-video-screen-recorder-for-code--python-java-js-php-etc/) [Lucy]
 
 ## YouTube / Videos
 
-* [Speed Tests: Software Drag Racing!](https://www.youtube.com/playlist?list=PLF2KJ6Gy3cZ5Er-1eF9fN1Hgw_xkoD9V1) and associated [Github Repo](https://github.com/PlummersSoftwareLLC/Primes) [Lucy]
-* [censiCLICK](https://www.youtube.com/c/censiCLICK) [Lucy]
-
+* [Minecraft from scratch in C](https://www.youtube.com/c/jdhvideo)
 
 ## Fun / Chill
 
-* [pokemon or big data?](http://pixelastic.github.io/pokemonorbigdata/) [Lucy]
-* [The Key by StaskOverflow](https://stackoverflow.blog/2021/09/28/become-a-better-coder-with-this-one-weird-click/) [Lucy]
-* [talk to a duck](https://rubberduckdebugging.com/cyberduck/) [Lucy]
-* search "*Google word coach*" on Google (Mobile only) [Lucy]
+* [Proge Game](https://progegame.com/) [Lucy]
+* [Google new Easteregg (cat/dog)](https://www.google.com/search?q=cat) [Damien]
+* [Midjourney](https://www.midjourney.com/app/) [Damien]
+* [asdf;lkj](https://asdfsemicolonlkj.com/) [Lucy]
+* [User Inyerface](https://userinyerface.com/) [Lucy]
+* [/dev/null as a service](https://devnull-as-a-service.com/) [Jacques]
+* [Advent of Code](https://adventofcode.com/)
+* [Ergodox Keyboards](https://ergodox-ez.com) [Sylvain]
