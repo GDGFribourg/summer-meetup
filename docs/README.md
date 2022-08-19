@@ -17,6 +17,16 @@
 * [Tipserve](https://github.com/supcik/zipserve) [Jacques]
 * [Go 1.18](https://go.dev/blog/go1.18) [Jacques]
 * [Gremlins tracker for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins) [Jacques]
+* [A command-line fuzzy finder](https://github.com/junegunn/fzf) [Jacques]
+* [neovim](https://neovim.io/) [Sylvain]
+* [Alacritty](https://github.com/alacritty/alacritty)
+* [Rclone](https://rclone.org/) [Jacques]
+* [Vivaldi](https://vivaldi.com/) [Lucy]
+* [restic Backups done right!](https://restic.net/)
+* [horcrux](https://github.com/jesseduffield/horcrux) [Jacques]
+* [SCons: A software construction tool](https://scons.org/) [Jacques]
+* [exa : a modern replacement for ls](https://github.com/ogham/exa)
+* [Obsidian](https://obsidian.md/)
 
 ## Services
 
@@ -24,6 +34,8 @@
 * [Readable Comment](https://readable.so/) [Jacques]
 * [Network Policy editor for Kubernetes](https://editor.cilium.io/) [Lucy]
 * [FutureMe](https://www.futureme.org/) [Jacques]
+* [Codédex](https://codedex.io)
+* [Daily.dev](https://daily.dev)
 
 ## Frameworks / Specifications
 
@@ -39,6 +51,7 @@
 
 ## YouTube / Videos
 
+* [Minecraft from scratch in C](https://www.youtube.com/c/jdhvideo)
 
 ## Fun / Chill
 
@@ -48,3 +61,5 @@
 * [asdf;lkj](https://asdfsemicolonlkj.com/) [Lucy]
 * [User Inyerface](https://userinyerface.com/) [Lucy]
 * [/dev/null as a service](https://devnull-as-a-service.com/) [Jacques]
+* [Advent of Code](https://adventofcode.com/)
+* [Ergodox Keyboards](https://ergodox-ez.com) [Sylvain]
